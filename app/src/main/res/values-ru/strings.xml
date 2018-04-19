@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoinWatcher</string>
+    <string name="no_connection">Нет доступа к сети. Проверьте подключение и попробуйте заново</string>
+</resources>
